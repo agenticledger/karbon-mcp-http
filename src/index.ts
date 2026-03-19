@@ -579,3 +579,4 @@ app.listen(PORT, () => {
   console.log(`  Transport:      Streamable HTTP`);
   console.log(`  Auth:           Bearer passthrough (client provides Karbon Access Key + Bearer Token)`);
 });
+// OAuth upgrade 2026-03-19T00:52:20Z
